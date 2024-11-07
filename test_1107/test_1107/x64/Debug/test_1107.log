@@ -1,0 +1,6 @@
+﻿  kmp.c
+C:\Users\77101\Study\VS2022\code\test_1107\test_1107\kmp.c(13,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\77101\Study\VS2022\code\test_1107\test_1107\kmp.c(38,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\77101\Study\VS2022\code\test_1107\test_1107\kmp.c(39,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\77101\Study\VS2022\code\test_1107\test_1107\kmp.c(70,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  test_1107.vcxproj -> C:\Users\77101\Study\VS2022\code\test_1107\x64\Debug\test_1107.exe

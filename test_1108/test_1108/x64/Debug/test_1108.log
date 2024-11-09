@@ -1,0 +1,6 @@
+﻿  test.c
+C:\Users\77101\Study\VS2022\code\test_1108\test_1108\test.c(20,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\77101\Study\VS2022\code\test_1108\test_1108\test.c(56,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\77101\Study\VS2022\code\test_1108\test_1108\test.c(57,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\77101\Study\VS2022\code\test_1108\test_1108\test.c(88,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  test_1108.vcxproj -> C:\Users\77101\Study\VS2022\code\test_1108\x64\Debug\test_1108.exe
